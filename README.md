@@ -17,8 +17,10 @@ Pytorch==2.0.1
 Cuda==11.8  
 mmcv==2.2.0  
 ## Experiment
+![picture2](./Fig/fig5.png)
 
-
+## Weights and results
+The model weights and prediction images can be found [here]().
 
 # Acknowledgement
 Our code is heavily based on [sRGB-TIR](https://github.com/RPM-Robotics-Lab/sRGB-TIR/tree/main) and [DFormer](https://github.com/VCIP-RGBD/DFormer/tree/main), thanks for their excellent work!
