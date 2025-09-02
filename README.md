@@ -5,11 +5,11 @@ This repository contains the code for TUNI, which has been submitted to ICRA 202
 ✨**2025-9-5**✨ : Upload model files, evaluation files, pre-trained weights, prediction images. 
 
 ## Method 
-![picture1](./fig/fig2.png)
-The CM-SSM consists of two image encoders to extract the features of RGB and thermal images, four CM-SSA moudules to perform RGB-T feature fusion in four stages, and an MLP decoder to predict the semantic segmentation maps.
+![picture1](./Fig/fig2.png)
 
-![picture2](./fig/fig3.png)
-The CM-SS2D consists of three steps: 1) cross-modal selective scanning, 2) cross-modal state space modeling and 3) scan merging.
+Illustration of TUNI. The TUNI encoder consists of multiple stacked RGB-T encoder blocks, each of which includes an RGB-RGB local module,
+an RGB-T local module, and an RGB-T global module. The encoder is first pre-trained on RGB and pseudo-thermal data, and then fine-tuned with a
+lightweight segmentation head on downstream task datasets.
 
 ## Reqiurements
 Python==3.9  
