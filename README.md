@@ -2,9 +2,10 @@
 ## Introduction
 This repository contains the code for TUNI, which has been submitted to ICRA 2026. The current repository includes the model files, evaluation files, pre-trained weights, and prediction images to facilitate the review process.
 
+## 🌟  NEWS
 ✨**2025-9-5**✨ : Submit a version of the repository for review, including the model files, evaluation scripts, pre-trained weights, and results images.
 
-## Method 
+## Method
 ![picture1](./Fig/fig2.png)
 
 Illustration of TUNI. The TUNI encoder consists of multiple stacked RGB-T encoder blocks, each of which includes an RGB-RGB local module,
