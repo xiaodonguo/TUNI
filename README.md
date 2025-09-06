@@ -28,7 +28,7 @@ Step3. Fine-tuning RGB-T semantic segmentation models on [FMB](https://github.co
 ![picture3](./Fig/fig4.png)
 
 ## Weights and results
-The model weights and prediction images can be found ![here](sha256:d9e63ff44a8723299e511d848528590cebb55887129f688091fd0a142ee3bbb9).
+The model weights and prediction images can be found [here](https://github.com/xiaodonguo/TUNI/releases/download/v1.0.0/TUNI.zip).
 
 ## Acknowledgement
 Our code is heavily based on [sRGB-TIR](https://github.com/RPM-Robotics-Lab/sRGB-TIR/tree/main) and [DFormer](https://github.com/VCIP-RGBD/DFormer/tree/main), thanks for their excellent work!
