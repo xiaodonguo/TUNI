@@ -5,7 +5,7 @@ This repository contains the code for TUNI, which has been submitted to ICRA 202
 ## 🌟  NEWS
 ✨**2025-9-5**✨ : Submit an initial version of the repository, including the model files, evaluation scripts, pre-trained weights, and results images.  
 ✨**2026-1-31**✨ : Our paper is accpeted by ICRA 2026.  
-✨**2026-2-7**✨ : A journal version is submitted to IEEE TCSVT, new repository is established [here](https://github.com/xiaodonguo/TUNI-v2).
+✨**2026-2-7**✨ : A journal version is submitted to IEEE TCSVT, and a new repository is established [here](https://github.com/xiaodonguo/TUNI-v2).
 ## Method
 ![picture1](./Fig/fig2.png)
 
